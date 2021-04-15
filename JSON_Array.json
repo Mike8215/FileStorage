@@ -2,7 +2,7 @@
     {
         "firstname":"Kevin",
         "height":180,
-        "e-mail":"kevin@gmail.com",
+        "email":"kevin@gmail.com",
         "city":{
             "通訊地址":"台北",
             "戶籍地址":"桃園"
@@ -16,7 +16,7 @@
     {
         "firstname":"David",
         "height":174,
-        "e-mail":"david@gmail.com",
+        "email":"david@gmail.com",
         "city":{
             "通訊地址":"新竹",
             "戶籍地址":"台中"
@@ -30,7 +30,7 @@
     {
         "firstname":"Mary",
         "height":166,
-        "e-mail":"mary@gmail.com",
+        "email":"mary@gmail.com",
         "city":{
             "通訊地址":"新北",
             "戶籍地址":"新北"
